@@ -1,2 +1,2 @@
-# kmwiz.github.io
+# KamilMal.github.io
 First small html &amp; css webcard
